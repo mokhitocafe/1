@@ -935,6 +935,12 @@
 			-ms-transition: all 0.2s ease-in-out;
 			transition: all 0.2s ease-in-out;
 			color: #ffffff;
+			-moz-background-image: linear-gradient(60deg, #4dac71 50%, #3ba666 50%);
+			-webkit-background-image: linear-gradient(60deg, #4dac71 50%, #3ba666 50%);
+			-o-background-image: linear-gradient(60deg, #4dac71 50%, #3ba666 50%);
+			-ms-background-image: linear-gradient(60deg, #4dac71 50%, #3ba666 50%);
+			background-image: linear-gradient(60deg, #4dac71 50%, #3ba666 50%);
+			color: #ffffff;
 		}
 
 			#footer a:active, #footer a:hover {
