@@ -935,6 +935,14 @@
 			-ms-transition: all 0.2s ease-in-out;
 			transition: all 0.2s ease-in-out;
 			color: #ffffff;
+			
+
+			#footer a:active, #footer a:hover {
+				color: #ffffff;
+			}
+
+			.footer.style1 {
+			background-color: #3ba666;
 			-moz-background-image: linear-gradient(60deg, #4dac71 50%, #3ba666 50%);
 			-webkit-background-image: linear-gradient(60deg, #4dac71 50%, #3ba666 50%);
 			-o-background-image: linear-gradient(60deg, #4dac71 50%, #3ba666 50%);
@@ -942,10 +950,6 @@
 			background-image: linear-gradient(60deg, #4dac71 50%, #3ba666 50%);
 			color: #ffffff;
 		}
-
-			#footer a:active, #footer a:hover {
-				color: #ffffff;
-			}
 
 		#footer .icons .rounded {
 			border-color: #ffffff;
