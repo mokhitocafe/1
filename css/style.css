@@ -893,7 +893,7 @@
 	}
 
 	#header {
-		background-color: #202222;
+		background-color: #ffffff;
 		color: #ffffff;
 		cursor: default;
 		height: 4.75em;
@@ -1078,7 +1078,7 @@
 	}
 
 		.wrapper.style1 {
-			background-color: #3ba666;
+			background-color: #ffffff;
 			-moz-background-image: linear-gradient(60deg, #4dac71 50%, #3ba666 50%);
 			-webkit-background-image: linear-gradient(60deg, #4dac71 50%, #3ba666 50%);
 			-o-background-image: linear-gradient(60deg, #4dac71 50%, #3ba666 50%);
