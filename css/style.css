@@ -429,12 +429,12 @@
 
 		.icon.rounded {
 			border-radius: 100%;
-			border: 1px solid #4dac71;
+			border: 3px solid #4dac71;
 			display: inline-block;
-			height: 2em;
-			line-height: 2em;
+			height: 4em;
+			line-height: 4em;
 			text-align: center;
-			width: 2em;
+			width: 4em;
 		}
 
 			.icon.rounded.big {
